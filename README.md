@@ -1,7 +1,7 @@
 # 👋 Selam, Ben Fırat Oral!
 
 ### 🎓 Yazılım Mühendisi Adayı | Siber Güvenlik & Yapay Zeka Tutkunu
-Atatürk Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim. [cite: 310, 312] [cite_start]Siber güvenlik, yapay zeka ve otonom sistemlerin kesişim noktasında, güvenli ve akıllı teknolojiler inşa etmeye odaklanıyorum.
+Atatürk Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim. Siber güvenlik, yapay zeka ve otonom sistemlerin kesişim noktasında, güvenli ve akıllı teknolojiler inşa etmeye odaklanıyorum.
 
 ---
 
@@ -35,7 +35,7 @@ Atatürk Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim. [cite: 310, 
 ### 📜 Sertifikalar
 * **BTK Akademi:** Yazılım Testine Giriş, Algoritma Tasarımı, Veri Tabanı Güvenliği 
 * **Turkcell Geleceği Yazanlar:** Temel Linux (101-401), Android Programlama (101-301)
-
+* **Global Executive Academy Katılım ve Üstün Başarı
 ---
 
 ### 📫 Benimle İletişime Geçin
